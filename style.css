@@ -1,0 +1,25 @@
+body  
+{  
+    margin: 10;  
+    padding: 10;  
+    background-color:#9bbbcaba;  
+    font-family: 'Arial';  
+} 
+.test{
+    font-size: 30px; 
+    color: green; 
+    text-align-last: center;
+}
+.title{
+    font-size: 15px; 
+    color: purple;
+}
+table, td {
+    border: 2px solid black;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 5px;
+}
+th, td {
+    padding: 15px;
+}
